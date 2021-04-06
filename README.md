@@ -1,4 +1,8 @@
 # DMP: Diff-Match-Patch
+[![Dart](https://img.shields.io/badge/Language-dart-blue)](https://dart.dev/null-safety)
+[![Sound Null Safety](https://img.shields.io/badge/-null--safety-9cf)](https://dart.dev/null-safety)
+[![diff_match_patch](https://img.shields.io/badge/Original-diff__match__patch-green)](https://github.com/google/diff-match-patch)
+
 
 This library is a dart ported version of the [diff_match_patch](https://github.com/google/diff-match-patch) library by Google with sound null safety
 

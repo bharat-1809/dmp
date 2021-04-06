@@ -1,5 +1,5 @@
 # DMP: Diff-Match-Patch
-[![Dart](https://img.shields.io/badge/Language-dart-blue)](https://dart.dev/null-safety)
+[![Dart](https://img.shields.io/badge/Language-dart-blue)](https://dart.dev)
 [![Sound Null Safety](https://img.shields.io/badge/-null--safety-9cf)](https://dart.dev/null-safety)
 [![diff_match_patch](https://img.shields.io/badge/Original-diff__match__patch-green)](https://github.com/google/diff-match-patch)
 
